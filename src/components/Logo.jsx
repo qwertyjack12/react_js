@@ -1,5 +1,3 @@
-import React from "react"
-
 function Logo() {
 const img = 'images/cat.jpg'
     return (
