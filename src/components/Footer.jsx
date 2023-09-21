@@ -2,8 +2,10 @@ function Footer() {
     return (
         <footer>
             <p> Follow Me:
-                <a href="https://github.com/qwertyjack12">
-                On GitHub </a>
+                <ul>
+                    <a href="https://github.com/qwertyjack12">
+                    On GitHub </a>
+                </ul>
             </p>
         </footer>
     )

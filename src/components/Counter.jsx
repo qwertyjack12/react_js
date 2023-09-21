@@ -13,9 +13,9 @@ function Counter() {
 
     return(
         <div>
-            <h1>Count: {count}</h1>
-            <button onClick={increment}>Increment</button>
-            <button onClick={decrement}>Decrement</button>
+            <h1>Count of days without coffee: {count}</h1>
+            <button onClick={increment}>Plus one</button>
+            <button onClick={decrement}>Minus one</button>
         </div>
     )
 }
