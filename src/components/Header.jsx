@@ -1,9 +1,7 @@
-function Header() {
-    return (
-        <div>
-            <h1>Welcome to the club, body</h1>
-        </div>
-    )
+export const Header = () => {
+  return (
+    <h1 style={{fontSize: 40}}>
+      Expense Tracker
+    </h1>
+  )
 }
-
-export default Header
