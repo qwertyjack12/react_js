@@ -4,6 +4,7 @@
 
 * {
     box-sizing: border-box;
+    font-family: 'Josefin Sans', sans-serif;
 }
 
 body {
@@ -14,7 +15,7 @@ body {
     justify-content: center;
     min-height: 100vh;
     margin: 0;
-    font-family: 'Lato', sans-serif;
+
 }
 
 .container {
